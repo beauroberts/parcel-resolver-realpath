@@ -1,6 +1,6 @@
 {
   "name": "parcel-resolver-realpath",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resolves symlinks in paths",
   "main": "index.js",
   "engines": {
